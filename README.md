@@ -1,8 +1,10 @@
-## Olá, Sejam bem-vindos 🖐🙂
+## Olá, sejam bem-vindos 🖐🙂
 
 - Cursando Análise e Desenvovimento de Sistemas;
 - No momento estudando Python, Javascript, C, MySQL e Linux;
 
+## Ferramentas sendo utilizadas
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <!--
 **FabricioHA/FabricioHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

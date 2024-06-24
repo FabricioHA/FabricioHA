@@ -1,7 +1,8 @@
 ## Olá, Sejam bem-vindos 🖐🙂
 
-- No momento estudando Python, Javascript, C e MySQL;
-- 
+- Cursando Análise e Desenvovimento de Sistemas;
+- No momento estudando Python, Javascript, C, MySQL e Linux;
+
 
 <!--
 **FabricioHA/FabricioHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

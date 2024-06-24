@@ -1,5 +1,7 @@
 ## Sejam bem-vindos 🖐🙂
 
+- No momento estudando Python, Javascript, C e MySQL
+
 <!--
 **FabricioHA/FabricioHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

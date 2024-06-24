@@ -1,10 +1,8 @@
 ## Olá, sejam bem-vindos 🖐🙂
 
-- Cursando Análise e Desenvovimento de Sistemas;
-- No momento estudando Python, Javascript, C, MySQL e Linux;
-
-## Ferramentas sendo utilizadas
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- Cursando Análise e Desenvovimento de Sistemas pela Anhanguera;
+- Atualmente estudando Python, Javascript, C, MySQL e Linux;
+- Interessado em back-end,
 
 <!--
 **FabricioHA/FabricioHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

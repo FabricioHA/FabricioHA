@@ -1,6 +1,6 @@
 # Olá, sejam bem-vindos 🖐😁
 🐱‍👤 Atualmente estudando Python, Javascript, C, MySQL e Linux;
-<br>📚 Cursando Análise e Desenvovimento de Sistemas pela Anhanguera;
+<br>📚 Cursando Análise e Desenvolvimento de Sistemas pela Anhanguera;
 <br>👀 Interessado em back-end, Desenvolvimento Web e Segurança de Dados. 
 <br>
 

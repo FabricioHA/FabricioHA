@@ -4,6 +4,12 @@
 - Atualmente estudando Python, Javascript, C, MySQL e Linux;
 - Interessado em back-end,
 
+<div>
+  <a href="https://github.com/FabricioHA">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioHA&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioHA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **FabricioHA/FabricioHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

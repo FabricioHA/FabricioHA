@@ -9,11 +9,9 @@
   <a href = "mailto:fabricio.27767@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <br>
   <a href = "mailto:fabricio.27767@outlook.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <br>
   <a href="https://www.linkedin.com/in/fabrício-holanda-de-almeida-55b43a1b8" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
